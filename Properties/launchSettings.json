@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PingFixTest": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
